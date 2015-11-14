@@ -4,4 +4,7 @@ this is test repo
 working for first time on Git Hub
 ### Interesting place for work
 It is attractive for programmer to work on Git Hub.
+* first item in list
+* second in list
+* thrid in list
 
